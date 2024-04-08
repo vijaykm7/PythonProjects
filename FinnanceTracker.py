@@ -53,6 +53,7 @@ def main():
 
         if n == '3':
             print("Good Bye")
+            break
 
 if __name__ == '__main__':
     main()
